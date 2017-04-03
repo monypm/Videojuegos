@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 46068f138f6ebfa43b2126ab93583b6f
+timeCreated: 1490861174
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 9
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Valu Old Caps
+  fontNames:
+  - Valu Old Caps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

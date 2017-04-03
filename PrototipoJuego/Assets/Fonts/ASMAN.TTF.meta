@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 80e70475e5c401f40971d0e2a62cd58c
+timeCreated: 1490861673
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 18
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Asman
+  fontNames:
+  - Asman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
