@@ -1,19 +1,19 @@
 fileFormatVersion: 2
 guid: 48e6c36aa09f5b54e858e9b54092c9f1
-timeCreated: 1493239520
+timeCreated: 1493313715
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: villano 2_0
-    21300002: villano 2_1
-    21300004: villano 2_6
-    21300006: villano 2_7
-    21300008: villano 2_8
-    21300010: villano 2_16
-    21300012: villano 2_17
-    21300014: villano 2_18
-    21300016: villano 2_23
-    21300018: villano 2_24
+    21300000: villano 2_idle_1
+    21300002: villano 2_idle_2
+    21300004: villano 2_walk_1
+    21300006: villano 2_walk_2
+    21300008: villano 2_walk_3
+    21300010: villano 2_attack_1
+    21300012: villano 2_attack_2
+    21300014: villano 2_attack_3
+    21300016: villano 2_die_1
+    21300018: villano 2_die_2
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -80,7 +80,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: villano 2_0
+      name: villano 2_idle_1
       rect:
         serializedVersion: 2
         x: 11
@@ -88,12 +88,12 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_1
+      name: villano 2_idle_2
       rect:
         serializedVersion: 2
         x: 79
@@ -106,7 +106,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_6
+      name: villano 2_walk_1
       rect:
         serializedVersion: 2
         x: 11
@@ -114,12 +114,12 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_7
+      name: villano 2_walk_2
       rect:
         serializedVersion: 2
         x: 79
@@ -132,7 +132,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_8
+      name: villano 2_walk_3
       rect:
         serializedVersion: 2
         x: 152
@@ -145,7 +145,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_16
+      name: villano 2_attack_1
       rect:
         serializedVersion: 2
         x: 11
@@ -153,12 +153,12 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_17
+      name: villano 2_attack_2
       rect:
         serializedVersion: 2
         x: 79
@@ -166,12 +166,12 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_18
+      name: villano 2_attack_3
       rect:
         serializedVersion: 2
         x: 153
@@ -179,12 +179,12 @@ TextureImporter:
         width: 46
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_23
+      name: villano 2_die_1
       rect:
         serializedVersion: 2
         x: 12
@@ -192,12 +192,12 @@ TextureImporter:
         width: 46
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: villano 2_24
+      name: villano 2_die_2
       rect:
         serializedVersion: 2
         x: 79
