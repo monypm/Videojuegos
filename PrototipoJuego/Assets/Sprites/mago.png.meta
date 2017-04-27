@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: 3e7928ae222d2074aa7d9bad3822b4f5
-timeCreated: 1493239465
+timeCreated: 1493312880
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: mago_idle_1
+    21300002: mago_idle_2
+    21300004: mago_walk_1
+    21300006: mago_walk_2
+    21300008: mago_25
+    21300010: mago_attack_1
+    21300012: mago_attack_2
+    21300014: mago_attack_3
+    21300016: mago_die_1
+    21300018: mago_walk_3
+    21300020: mago_die_2
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -68,7 +79,137 @@ TextureImporter:
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mago_idle_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 138
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_idle_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 138
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_walk_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_walk_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 92
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_attack_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_attack_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 46
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_attack_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 46
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_die_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_walk_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mago_die_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
